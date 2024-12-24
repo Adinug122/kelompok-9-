@@ -1,5 +1,5 @@
 Kelompok 9
-## 📂 Daftar Isi Folder
+## 📂 Proyek pengembangan basis data penjualan sayur
 - Dokumen 
   - 📘 Dokumentasi awal basis data_Kelompok 9
   - 📙 Laporan Akhir Kelompok 9
